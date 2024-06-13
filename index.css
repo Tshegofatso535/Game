@@ -54,9 +54,11 @@ header>h1{
 .choices{
 
     text-align: center;
-    margin-top: 50 0px;
-     display: inline;
+     display: block;
+     margin-right: auto;
+     margin-left: auto;
      align-items: center;
+     
 }
 
 .choice{
